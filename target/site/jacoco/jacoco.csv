@@ -1,6 +1,0 @@
-GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-FormasPagamentoService,org.example.model,Pedido,0,18,0,0,0,6,0,2,0,2
-FormasPagamentoService,org.example.model,Cliente,33,0,0,0,14,0,7,0,7,0
-FormasPagamentoService,org.example.model,Pagamento,0,21,0,0,0,6,0,2,0,2
-FormasPagamentoService,org.example.config,Parametros,17,0,0,0,7,0,5,0,5,0
-FormasPagamentoService,org.example,FormasPagamentoService,27,199,14,20,6,47,14,8,0,5

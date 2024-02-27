@@ -1,7 +1,0 @@
-org/example/model/Pagamento.class
-org/example/PagamentoService.class
-org/example/FormasPagamentoService.class
-org/example/model/Pedido.class
-org/example/config/Parametros.class
-org/example/model/Cliente.class
-org/example/PedidoService.class
