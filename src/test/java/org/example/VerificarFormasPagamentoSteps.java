@@ -53,7 +53,6 @@ public class VerificarFormasPagamentoSteps {
         when(parametrosMock.getValorLimiteUltimoPedido()).thenReturn(1000.00);
     }
 
-    //@Given("^um cliente com (\\d+) meses de cadastro, situação de crédito \"([^\"]*)\", valor do último pedido (\\d+) e último pagamento (\\d+)$")
     @Given("um cliente com {int} meses de cadastro, situação de crédito {string}, valor do último pedido {int} e último pagamento {int}")
     public void um_cliente_com_meses_de_cadastro_situacao_de_credito_valor_do_ultimo_pedido_e_ultimo_pagamento(int mesesCadastro, String situacaoCredito, int valorUltimoPedido, int valorUltimoPagamento) {
         when(clienteMock.getSituacaoCredito()).thenReturn(situacaoCredito);
